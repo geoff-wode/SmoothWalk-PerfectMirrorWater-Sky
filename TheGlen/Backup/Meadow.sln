@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idyll", "Idyll\Idyll.csproj", "{D250974E-930A-408D-86B4-4CF30E413843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meadow", "TheMeadow\Meadow.csproj", "{0CED43C4-7A5B-4445-BE30-E66F37E669DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D250974E-930A-408D-86B4-4CF30E413843}.Debug|x86.ActiveCfg = Debug|x86
+		{D250974E-930A-408D-86B4-4CF30E413843}.Debug|x86.Build.0 = Debug|x86
+		{D250974E-930A-408D-86B4-4CF30E413843}.Release|x86.ActiveCfg = Release|x86
+		{D250974E-930A-408D-86B4-4CF30E413843}.Release|x86.Build.0 = Release|x86
+		{AFE30F7F-AB81-442E-9D4B-AC867D34C4A8}.Debug|x86.ActiveCfg = Debug|x86
+		{AFE30F7F-AB81-442E-9D4B-AC867D34C4A8}.Release|x86.ActiveCfg = Release|x86
+		{0CED43C4-7A5B-4445-BE30-E66F37E669DF}.Debug|x86.ActiveCfg = Debug|x86
+		{0CED43C4-7A5B-4445-BE30-E66F37E669DF}.Debug|x86.Build.0 = Debug|x86
+		{0CED43C4-7A5B-4445-BE30-E66F37E669DF}.Release|x86.ActiveCfg = Release|x86
+		{0CED43C4-7A5B-4445-BE30-E66F37E669DF}.Release|x86.Build.0 = Release|x86
+		{CE49E041-190D-41EB-8399-138E95C5AC59}.Debug|x86.ActiveCfg = Debug|x86
+		{CE49E041-190D-41EB-8399-138E95C5AC59}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

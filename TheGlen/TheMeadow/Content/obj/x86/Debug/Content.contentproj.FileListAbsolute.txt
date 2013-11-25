@@ -1,0 +1,2 @@
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\TheGlen\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\TheMeadow\Content\obj\x86\Debug\ResolveAssemblyReference.cache

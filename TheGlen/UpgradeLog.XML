@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Meadow">
+</Property><Property Name="Solution File" Value="D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Meadow.sln">
+</Property><Property Name="User Options File" Value="D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Meadow.suo">
+</Property><Property Name="Date" Value="25 November 2013">
+</Property><Property Name="Time" Value="11:15">
+</Property><Property Name="Solution" Value="Meadow">
+</Property><Property Name="Solution File" Value="D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Meadow.sln">
+</Property><Property Name="Date" Value="25 November 2013">
+</Property><Property Name="Time" Value="11:16:03">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Meadow.sln" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\Meadow.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Meadow.suo" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\Meadow.suo">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\Idyll.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\Idyll.csproj" Description="Project file successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\Idyll\Idyll.csproj">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\Idyll.csproj.user" Description="Project user file successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\Idyll\Idyll.csproj.user">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\Grid.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\Idyll\Grid.cs">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\Input\InputController.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\Idyll\Input\InputController.cs">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\Idyll\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\SceneGraph\MatrixStack.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\Idyll\SceneGraph\MatrixStack.cs">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\SceneGraph\Scene.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\Idyll\SceneGraph\Scene.cs">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\SceneGraph\SceneNode.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\Idyll\SceneGraph\SceneNode.cs">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\Idyll.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Idyll" Source="Idyll\Idyll.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Meadow.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Meadow.csproj" Description="Project file successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\Meadow.csproj">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Meadow.csproj.user" Description="Project user file successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\Meadow.csproj.user">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\FPSCamera.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\FPSCamera.cs">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Geology\Water.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\Geology\Water.cs">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Program.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\Program.cs">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Geology\Terrain.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\Geology\Terrain.cs">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\TheGame.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\TheGame.cs">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Weather\SkyDome.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\Weather\SkyDome.cs">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Weather\Sun.cs" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\Weather\Sun.cs">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Game.ico" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\Game.ico">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\GameThumbnail.png" Description="File successfully backed up as D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Backup\TheMeadow\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Meadow.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Meadow" Source="TheMeadow\Meadow.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Meadow.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Meadow.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\Idyll.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Idyll\Idyll.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Idyll" Source="Content\Content.contentproj" Description="Upgrade of Library project 'Idyll' removed a reference to the empty Content Project 'D:\Dev\code\SmoothWalk+PerfectMirrorWater+Sky\TheGlen\Idyll\Content\Content.contentproj'.">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Meadow.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Meadow" Source="TheMeadow\Meadow.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="TheMeadowContent" Source="TheMeadow\Content\TheMeadowContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

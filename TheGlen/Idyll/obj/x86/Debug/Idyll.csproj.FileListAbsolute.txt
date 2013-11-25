@@ -1,0 +1,6 @@
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\bin\x86\Debug\Idyll.dll
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\bin\x86\Debug\Idyll.pdb
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\obj\x86\Debug\Idyll.dll
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\obj\x86\Debug\Idyll.pdb
